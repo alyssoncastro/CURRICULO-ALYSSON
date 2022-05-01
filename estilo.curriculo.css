@@ -1,0 +1,55 @@
+body {
+    background: black;
+    font: normal 10px;
+}
+
+div {
+    background-color: gainsboro;
+    color: black;
+}
+
+h1 { font: normal 100px;
+    font-family: Gótico;
+    text-align: center;
+}
+
+h2 {
+    font: normal 25px new york times;
+    text-align: center;
+}
+
+h3 {
+    font: normal 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+@font-face {
+    font-family: Gótico;
+    src: url("OldLondon.ttf");
+}
+
+h4 {
+    font: normal 10px;
+    font-family: Gótico;
+    text-align: right;
+   background-color: aqua;
+   padding: 0px;
+}
+
+h5 {
+    font: normal 10px;
+    text-align: center;
+}
+
+p {
+    font: normal 20px new york times;
+    text-align: center;
+}
+ 
+img {
+    margin:auto;
+    display: block;
+}
+.margem {margin: 0 auto;
+        width: 50%;}
+.fotoAlysson { border-radius: 100px;}
